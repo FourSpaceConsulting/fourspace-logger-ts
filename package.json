@@ -1,6 +1,6 @@
 {
   "name": "fourspace-logger-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript Logger API",
   "main": "lib/logger-api.js",
   "types": "lib/logger-api.d.ts",
