@@ -1,1 +1,1 @@
-export { Logger, LoggerFactory, LogBindingManager, LogFactory, LoggerBinding } from "./logger-api";
+export { Logger, LoggerFactory, LogBindingManager, LogFactory, LoggerBinding } from './logger-api';
